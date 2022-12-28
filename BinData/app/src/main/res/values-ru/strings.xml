@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BinData</string>
+    <string name="title">Введите Bin вашей карты</string>
+    <string name="inputBin">Введите Bin</string>
+    <string name="submit_button">Подтвердить</string>
+    <string name="error_message">Обязательное поле</string>
+    <string name="error_message2">Ничего не найдено</string>
+    <string name="info_title">Информация о карте</string>
+    <string name="back_button">Вернуться</string>
+    <string name="history_button">История поиска</string>
+    <string name="history_title">История</string>
+    <string name="clear_history_btn">Очистить историю</string>
+</resources>

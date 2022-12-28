@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BinData</string>
+    <string name="title">Enter Bin from your card</string>
+    <string name="inputBin">Bin here</string>
+    <string name="submit_button">Confirm</string>
+    <string name="error_message">Required field</string>
+    <string name="error_message2">No results found</string>
+    <string name="info_title">Information about card</string>
+    <string name="back_button">Go back</string>
+    <string name="history_button">History of search</string>
+    <string name="history_title">History</string>
+    <string name="clear_history_btn">Clear history of search</string>
+</resources>
